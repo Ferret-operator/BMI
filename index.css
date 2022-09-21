@@ -18,13 +18,15 @@ h2{
 }
 
 table{
-
+  margin: auto;
+  align-content: center;
   border-collapse: collapse;
-
+  height: +250px;
+  width: +400px;
 }
 tr{
 
-  border-bottom: 1px black solid;
+  border-bottom: 1px rgb(68, 68, 68) solid;
 
 
 }
