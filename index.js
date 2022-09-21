@@ -14,6 +14,7 @@ function init(){
     document.getElementById('magassag').addEventListener('change',szamolas);
     document.getElementById('testsuly').addEventListener('change', szamolas);
 
+    
 
 }
 document.addEventListener("DOMContentLoaded", init);
