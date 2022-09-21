@@ -9,10 +9,22 @@ h2{
 
 
 }
-td{
 
-  border-bottom: 3px , solid, black;
+.kijeloles{
 
-  
+  background-color: orange;
+
+
+}
+
+table{
+
+  border-collapse: collapse;
+
+}
+tr{
+
+  border-bottom: 1px black solid;
+
 
 }
