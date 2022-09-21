@@ -13,7 +13,7 @@ h2{
 .kijeloles{
 
   background-color: orange;
-
+  font-weight: bold;
 
 }
 
@@ -27,6 +27,7 @@ table{
 tr{
 
   border-bottom: 1px rgb(68, 68, 68) solid;
-
+  
 
 }
+
