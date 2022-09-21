@@ -47,6 +47,9 @@ function szamolas()
 
 }
 
+
+
+
 function init(){
 
     document.getElementById('magassag').addEventListener('change',szamolas);
@@ -55,5 +58,8 @@ function init(){
 
 
 }
+
+
+
 document.addEventListener("DOMContentLoaded", init);
 console.log('Javascript file end');
